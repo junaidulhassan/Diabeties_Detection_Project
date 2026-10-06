@@ -1,4 +1,4 @@
-# 🩺 Diabetes Detection Project
+# Diabetes Detection Project
 
 A full-stack-style machine learning project for diabetes risk prediction using patient health indicators. This repository contains a Streamlit web app that loads a trained model and predicts whether a person is likely diabetic based on key health features like BMI, blood glucose, insulin, and HbA1c values.
 
